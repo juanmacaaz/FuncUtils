@@ -1,0 +1,7 @@
+README.md
+functools.py
+setup.py
+j_funcTools.egg-info/PKG-INFO
+j_funcTools.egg-info/SOURCES.txt
+j_funcTools.egg-info/dependency_links.txt
+j_funcTools.egg-info/top_level.txt

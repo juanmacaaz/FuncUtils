@@ -1,0 +1,13 @@
+Metadata-Version: 1.1
+Name: j-funcTools
+Version: 0.1
+Summary: A basic cost time calculator
+Home-page: https://github.com/javatechy/dokr
+Author: Juan Manuel Camara Diaz
+Author-email: juanma.caaz@gmail.com
+License: UNKNOWN
+Description: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
