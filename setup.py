@@ -5,9 +5,9 @@ with open("README.md", "r") as fh:
 
 
 setuptools.setup(
-     name='j-funcTools',  
+     name='j-funcutils',  
      version='0.1',
-     scripts=['functools.py'] ,
+     scripts=['funcutils.py'] ,
      author="Juan Manuel Camara Diaz",
      author_email="juanma.caaz@gmail.com",
      description="A basic cost time calculator",
