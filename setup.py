@@ -6,12 +6,11 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
      name='j-funcutils',  
-     version='0.3',
-     scripts=['funcutils/funcutils.py'] ,
+     version='0.0.5',
      author="Juan Manuel Camara Diaz",
      author_email="juanma.caaz@gmail.com",
      description="A basic cost time calculator",
-     url="https://github.com/javatechy/dokr",
+     url="https://github.com/juanmacaaz/FuncUtils",
      packages=setuptools.find_packages(),
      classifiers=[
          "Programming Language :: Python :: 3",

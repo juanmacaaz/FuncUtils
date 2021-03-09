@@ -1,1 +1,1 @@
-import funcutils
+from .funcutils import cost
